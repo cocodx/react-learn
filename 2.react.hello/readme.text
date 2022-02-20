@@ -1,0 +1,6 @@
+english domain https://reactjs.org/
+china website https://react.docschina.org/
+
+babel.min.js  ===> jsx to js
+react.development.js  ==> react core
+react-dom.development.js  ==> react plugin
